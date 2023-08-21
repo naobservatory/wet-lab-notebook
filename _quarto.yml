@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "NAO Wet Lab notebook"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/naobservatory
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
